@@ -6,6 +6,7 @@ build:
     - easygui==0.98.3
     - Pillow==10.1.0
     - rembg==2.0.52
+    - pyheif~=0.7.1
   system_packages:
     - "libgl1-mesa-glx"
     - "ffmpeg"
